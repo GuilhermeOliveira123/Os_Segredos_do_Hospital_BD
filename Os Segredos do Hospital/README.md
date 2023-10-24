@@ -12,8 +12,8 @@ As internações precisam ser vinculadas a quartos, com a numeração e o tipo.
 Cada tipo de quarto tem sua descrição e o seu valor diário (a princípio, o hospital trabalha com apartamentos, quartos duplos e enfermaria).
 Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
 A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
- (https://github.com/GuilhermeOliveira123/Os_Segredos_do_Hospital_BD/assets/105466909/fcb992f3-b793-49da-9980-f249801bd625)
 
+![Segredos](https://github.com/GuilhermeOliveira123/Os_Segredos_do_Hospital_BD/assets/105466909/be7eb969-f49d-48e5-bb5c-140e336be862)
 
 
     
